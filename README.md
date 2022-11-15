@@ -1,15 +1,3 @@
-# Assignment_7_Veronica
-
-Model Training from Coqui TTS
-
-In this Repo you will find 3 colab notebooks:
-
-1) A Coqui TTS demo to try pre-trained models available --> Inference_coqui_tts_vv.ipynb (this is the one to open to have fun with different models)
-
-2) A Coqui TTS demo to train a glow-tts model on a portion of LJspeech dataset for Italian - this notebook is intented to show the code used for training --> training_coqui_tts_vv.ipynb
-
-
-
 <img src="https://raw.githubusercontent.com/coqui-ai/TTS/main/images/coqui-log-green-TTS.png" height="56"/>
 
 ----
