@@ -2,7 +2,7 @@
 
 Model Training from Coqui TTS
 
-In this Repo you will find 3 colab notebooks:
+In this Repo you will find 2 colab notebooks:
 
 1) A Coqui TTS demo to try pre-trained models available --> Inference_coqui_tts_vv.ipynb (this is the one to open to have fun with different models)
 
